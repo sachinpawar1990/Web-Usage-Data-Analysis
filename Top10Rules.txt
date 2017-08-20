@@ -1,0 +1,11 @@
+     lhs                                 		rhs                                            		support 	     confidence     lift
+[1]  {isapi, Windows Family of OSs}     => {Windows95 Support}                         		0.02873651  0.6385870 11.663215
+[2]  {SiteBuilder Network Membership} => {Internet Site Construction for Developers} 	0.02729969  0.8045045  8.172716
+[3]  {Windows 95}                           => {Windows Family of OSs}                     		0.03243557  0.9146552  6.464841
+[4]  {Developer Workshop}             	 => {Internet Site Construction for Developers} 	0.02815567  0.6140000  6.237439
+[5]  {isapi, Support Desktop}          	 => {Knowledge Base}                            		0.03323041  0.5591564  6.162589
+[6]  {Web Site Builder's Gallery}       	 => {Internet Site Construction for Developers} 	0.03530922  0.5440415  5.526752
+[7]  {Windows95 Support}                 => {isapi}                                     		0.04607013  0.8414294  5.163977
+[8]  {Knowledge Base}                 	 => {Support Desktop}                           		0.05521079  0.6084906  4.471879
+[9]  {Windows95 Support}              	 => {Windows Family of OSs}                     		0.03283299  0.5996650  4.238471
+[10] {Windows95 Support}              	 => {Support Desktop}                           		0.02959249  0.5404802  3.972062
